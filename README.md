@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diacod-I
 - 👀 I’m interested in coding, anime, many genres of music...
 - 🌱 I’m currently learning everything that I find interesting................and also python
-- 💞️ I’m looking to collaborate on AI projects and Blockchains (Im still a beginner, but I wanna learn more about them and do projects :p)
+- 💞️ I’m looking to collaborate on AI projects and Blockchain (Im still a beginner, but I wanna learn more about them and do projects :p)
 - 📫 Instagram: diablo_rojo.27
       Discord: Lucifer_27 #5722
       
