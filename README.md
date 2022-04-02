@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and solidity smart contracts...
 - 💞️ I’m looking to collaborate on AI projects and Blockchain (Im still a beginner, but I wanna learn more about them and collaborate with fellow developers :p)
 - 📫 Instagram: diablo_rojo.27
-      Discord: DunklesLicht #5722
+- 📫 Discord: DunklesLicht #5722
       
      <a href="https://app.daily.dev/LuciHere"><img src="https://api.daily.dev/devcards/c8393b725a15463d8b23d736b3f62d0d.png?r=tub" width="400" alt="Luci's Dev Card"/></a>
       
