@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **advithkrishnan@gmail.com**
 
-- ⚡ Fun fact **I am still a beginner :p**
+- ⚡ Fun fact : **I am still a beginner :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
