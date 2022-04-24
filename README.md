@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact : **I am still a beginner :p**
 
+<a href="https://app.daily.dev/LuciHere"><img src="https://api.daily.dev/devcards/c8393b725a15463d8b23d736b3f62d0d.png?r=tub" width="400" alt="Luci's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucihere" height="30" width="40" /></a>
@@ -31,7 +33,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=compact" alt="diacod-i" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diacod-i&" alt="diacod-i" /></p>
-<a href="https://app.daily.dev/LuciHere"><img src="https://api.daily.dev/devcards/c8393b725a15463d8b23d736b3f62d0d.png?r=tub" width="400" alt="Luci's Dev Card"/></a>
+
       
 <!---
 Diacod-I/Diacod-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
