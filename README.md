@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Web3 Development**
 
-- 💬 Ask me about **Python, Solidity, JavaScript**
+- 💬 Ask me about **Python, Solidity and Machine Learning**
 
 - 📫 How to reach me **advithkrishnan@gmail.com**
 
