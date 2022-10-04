@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **advithkrishnan@gmail.com**
 
-- **I am still a beginner :p**
+- **I am still a beginner :trollface::trollface:**
 
 <a href="https://app.daily.dev/LuciHere"><img src="https://api.daily.dev/devcards/c8393b725a15463d8b23d736b3f62d0d.png?r=tub" width="400" alt="Luci's Dev Card"/></a>
 
