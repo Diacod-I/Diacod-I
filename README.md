@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Diacod-I</h1>
 <h3 align="center">A Computational Intellegence Student from India</h3><br>
-<iframe align="left
+
+
 <p align="center">🌱 I’m currently learning <b>Blockchain and Web3 Development</b></p>
 
 <p align="center">💬 Ask me about <b>Python, Solidity and Machine Learning</b></p>
