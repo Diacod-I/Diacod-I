@@ -4,7 +4,7 @@
 
 <p align="center">🌱 I’m currently learning <b>Blockchain and Web3 Development</b></p>
 
-<p align="center">💬 Ask me about <b>Python, Solidity and Machine Learning</b></p>
+<p align="center">💬 Ask me about <b>Python and Machine Learning</b></p>
 
 <p align="center">📫 How to reach me <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
 
