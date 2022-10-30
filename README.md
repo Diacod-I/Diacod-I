@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm @Diacod-I</h1>
+<h1 align="center">Hi 👋, I'm Advith</h1>
 <h3 align="center">A Computational Intellegence Student @SRMIST</h3><br>
+<img src="https://media.tenor.com/znZTEo9mP1cAAAAC/anime-smoke.gif" align="left" height=550 width=500 />
+<p align="right">⍃---------------------------------------------------------------------------㊔</p>
+<p align="right">Pronouns:<br>⥮ 🤵 He/Him</p>
+<p align="right">⍃---------------------------------------------------------------------------㊜</p>
+<p align="right">I’m currently learning: <br><b>≸ 🌐 Deep Learning Techniques</b></p>
+<p align="right">⍃---------------------------------------------------------------------------㊟</p>
+<p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Python and Machine Learning</b></p>
+<p align="right">⍃---------------------------------------------------------------------------㊮</p>
+<p align="right">How to reach me:<br>ッ 📮 <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
+<p align="right">⍃---------------------------------------------------------------------------㊯</p>
+<p align="right">〄 The number of repos may decieve you :trollface::trollface:</p>
+<p align="right">⍃--------------------------------------------------------------------------㊙</p>
+<br>
+<p align="left"> <a href="https://twitter.com/advithkrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advithkrishnan?logo=twitter&style=for-the-badge" alt="advithkrishnan" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=Diacod-I&color=grey&style=flat)
 
-<p align="center">🌱 I’m currently learning <b>Recurring Neural Networks and Reinforcement Learning</b></p>
-
-<p align="center">💬 Ask me about <b>Python and Machine Learning</b></p>
-
-<p align="center">📫 How to reach me <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
-
-<p align="center">The number of repos may decieve you :trollface::trollface:</p><br>
-<p align="center"> <a href="https://twitter.com/advithkrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advithkrishnan?logo=twitter&style=for-the-badge" alt="advithkrishnan" /></a> </p>
-
-
+<br>
 <h3 align="left">
 Connect with me:</h3>
 <p align="left">
