@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Diacod-I</h1>
-<h3 align="center">A Computational Intellegence Student from India</h3><br>
+<h3 align="center">A Computational Intellegence Student @SRMIST</h3><br>
 
 
 <p align="center">🌱 I’m currently learning <b>Recurring Neural Networks and Reinforcement Learning</b></p>
