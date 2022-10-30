@@ -2,7 +2,7 @@
 <h3 align="center">A Computational Intellegence Student from India</h3><br>
 
 
-<p align="center">🌱 I’m currently learning <b>Blockchain and Web3 Development</b></p>
+<p align="center">🌱 I’m currently learning <b>Recurring Neural Networks and Reinforcement Learning</b></p>
 
 <p align="center">💬 Ask me about <b>Python and Machine Learning</b></p>
 
