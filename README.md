@@ -4,7 +4,7 @@
 <p align="right">⍃---------------------------------------------------------------------------㊔</p>
 <p align="right">Pronouns:<br>⥮ 🤵 He/Him</p>
 <p align="right">⍃---------------------------------------------------------------------------㊜</p>
-<p align="right">I’m currently learning: <br><b> ≸ 🌐 Deep Learning Techniques</b></p>
+<p align="right">I’m currently learning: <br><b> ≸ 🌐 Bio-Informatics and Computational Biology</b></p>
 <p align="right">⍃---------------------------------------------------------------------------㊟</p>
 <p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Python and Machine Learning</b></p>
 <p align="right">⍃---------------------------------------------------------------------------㊮</p>
