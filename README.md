@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Advith</h1>
 <h3 align="center">A Computational Intellegence Student @SRMIST</h3><br>
 <img src="https://media.tenor.com/znZTEo9mP1cAAAAC/anime-smoke.gif" align="left" height=550 width=500 />
-<p align="right">⍃---------------------------------------------------------------------------㊔</p>
+<p align="right">⍃---------------------------------------------------------------㊔</p>
 <p align="right">Pronouns:<br>⥮ 🤵 He/Him</p>
 <p align="right">⍃---------------------------------------------------------------------------㊜</p>
 <p align="right">I’m currently learning: <br><b> ≸ 🌐 Bio-Informatics and Computational Biology</b></p>
