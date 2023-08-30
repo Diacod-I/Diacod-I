@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advith</h1>
-<h3 align="center">A Computational Intellegence Student @SRMIST</h3><br>
+<h3 align="center">A Computational Intelligence Student @SRMIST</h3><br>
 <img src="https://media.tenor.com/znZTEo9mP1cAAAAC/anime-smoke.gif" align="left" height=550 width=500 />
 <p align="right">⍃-----------------------------------------------㊔<br></p>
 <p align="right">Pronouns:<br>⥮ 🤵 He/Him</p>
@@ -9,9 +9,9 @@
 <p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Python and Machine Learning</b></p>
 <p align="right">⍃-----------------------------------------------㊮<br></p>
 <p align="right">How to reach me:<br>ッ 📮 <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
-<p align="right">⍃-------------------------------------------------<br>㊯<br></p>
-<p align="right">〄 No. of repos may decieve you :trollface::trollface:</p>
-<p align="right">⍃-------------------------------------------------<br>㊙<br></p>
+<p align="right">⍃--------------------------------------------------<br>㊯<br></p>
+<p align="right">〄 No. of repos may deceive you :trollface::trollface:</p>
+<p align="right">⍃--------------------------------------------------<br>㊙<br></p>
 <br>
 <p align="left"> <a href="https://twitter.com/advithkrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advithkrishnan?logo=twitter&style=for-the-badge" alt="advithkrishnan" /></a> </p>
 
