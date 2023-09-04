@@ -29,7 +29,7 @@ Connect with me:</h3>
 <a href="https://fb.com/advith krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="advith krishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diablo_rojo.27" height="30" width="40" /></a>
 <a href="https://hashnode.com/lucihere @diabolikl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="lucihere @diabolikl2" height="30" width="40" /></a>
-<a href="https://medium.com/@advithsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@advithsonu" height="30" width="40" /></a>
+<a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@advithsonu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/advith krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="advith krishnan" height="30" width="40" /></a>
 </p>
 
