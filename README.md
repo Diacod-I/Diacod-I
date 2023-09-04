@@ -15,7 +15,7 @@
 <br>
 <p align="left"> <a href="https://twitter.com/advithkrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advithkrishnan?logo=twitter&style=for-the-badge" alt="advithkrishnan" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=Diacod-I&color=grey&style=flat)
+![](https://komarev.com/ghpvc/?username=Diacod-I&color=grey&style=flat)<br>
 <br>[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?uri=spotify:track:5yBgu0GOWQyuzFZAGtWePq)]()
 <br><br>
 <h3 align="left">
