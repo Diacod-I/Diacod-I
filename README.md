@@ -6,7 +6,7 @@
 <p align="right">⍃-----------------------------------------------㊜<br></p>
 <p align="right">I’m currently learning: <br><b> ≸ 🌐 Signal Processing for Neuroscience</b></p>
 <p align="right">⍃-----------------------------------------------㊟<br></p>
-<p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Python and Machine Learning</b></p>
+<p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Image Processing and Deep Learning</b></p>
 <p align="right">⍃-----------------------------------------------㊮<br></p>
 <p align="right">How to reach me:<br>ッ 📮 <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
 <p align="right">⍃--------------------------------------------------<br>㊯<br></p>
