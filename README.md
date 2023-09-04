@@ -9,9 +9,9 @@
 <p align="right">Ask me about.. <br>∃ 🧑🏽‍💻 <b>Image Processing and Deep Learning</b></p>
 <p align="right">⍃-----------------------------------------------㊮<br></p>
 <p align="right">How to reach me:<br>ッ 📮 <a href="mailto:advithkrishnan@gmail.com">advithkrishnan@gmail.com</a></p>
-<p align="right">⍃--------------------------------------------------<br>㊯<br></p>
+<p align="right">⍃--------------------------------------------------㊯<br></p>
 <p align="right">〄 No. of repos may deceive you :trollface::trollface:</p>
-<p align="right">⍃--------------------------------------------------<br>㊙<br></p>
+<p align="right">⍃--------------------------------------------------㊙<br></p>
 <br>
 <p align="left"> <a href="https://twitter.com/advithkrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advithkrishnan?logo=twitter&style=for-the-badge" alt="advithkrishnan" /></a> </p>
 
