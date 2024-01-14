@@ -35,5 +35,5 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=compact&theme=dark" alt="diacod-i" /></p>
-
+<br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark" alt="diacod-i" /></p>
