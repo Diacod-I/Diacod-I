@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Deep Divergence Graph Kernels](https://github.com/Diacod-I/DDGK4G)
 
-- 🌱 I’m currently learning **CUDA, CuPy, JAX, React.js, TailwindCSS, Docker**
+- 🌱 I’m currently learning **CUDA, CuPy, JAX, Next.js, TailwindCSS, Docker**
 
 - 👯 I’m looking to collaborate on **Anything in Deep Learning and Medical Data Science**
 
