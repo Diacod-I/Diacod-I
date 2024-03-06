@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **CUDA, CuPy, JAX, Next.js, TailwindCSS, Docker**
 
-- 👯 I’m looking to collaborate on **Anything in Deep Learning and Medical Data Science**
+- 👯 I’m looking to collaborate on **Anything combining Deep Learning and Medical Sciences, whether they affect each other or inspire each other *coughs* Spiking Neural Networks *coughs***
 
 - 🤝 I’m looking for help with **Website Development and Deployment**
 
