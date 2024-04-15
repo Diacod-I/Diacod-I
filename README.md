@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Anything combining Deep Learning and Medical Sciences, whether they affect each other or inspire each other *coughs* Spiking Neural Networks *coughs***
 
-- 🤝 I’m looking for help with **Website Development and Deployment**
+- 🤝 I’m looking for help with **anything neuroscience**
 
 - 💬 Ask me about **TensorFlow, PyTorch, Seaborn, OpenCV, Keras, Git**
 
