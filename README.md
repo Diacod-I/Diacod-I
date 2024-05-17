@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/advith_krishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advith_krishnan?logo=twitter&style=for-the-badge" alt="advith_krishnan" /></a> </p>
 
-- 🔭 I’m currently working on [Deep Divergence Graph Kernels](https://github.com/Diacod-I/DDGK4G)
+- 🔭 I’m currently working on Spiking Neural Networks
 
 - 🌱 I’m currently learning **CUDA, CuPy, JAX, Next.js, TailwindCSS, Docker**
 
