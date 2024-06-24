@@ -1,6 +1,6 @@
 <img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=200 width=1000>
 <h1 align="center">Hi 👋, I'm Advith Krishnan</h1>
-<h3 align="center">9-5 AM Caffeine thief with a lost cause of a sleep schedule</h3>
+<h3 align="center">9 PM - 5 AM Caffeine thief with a lost cause of a sleep schedule</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
