@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Spiking Neural Networks
 
-- 🌱 I’m currently learning **CUDA, JAX, Brian2 and Lava for Neuromorphic Systems**
+- 🌱 I’m currently learning **CUDA, JAX, Brian2, NEST, NEURON and Lava for Neuromorphic Systems and Computational Neuroscience**
 
 - 👯 I’m looking to collaborate on **anything combining Deep Learning and Medical Sciences, whether they affect each other or inspire each other *coughs* Spiking Neural Networks *coughs***
 
