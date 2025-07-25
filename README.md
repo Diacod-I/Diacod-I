@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord" alt="diacod-i" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/advith_krishnan" target="blank"><img src="https://img.shields.io/twitter/follow/advith_krishnan?logo=twitter&style=for-the-badge" alt="advith_krishnan" /></a> </p>
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidas-vision-based-danger-assessment-and/zero-shot-prompting-danger-assessment-on)](https://paperswithcode.com/sota/zero-shot-prompting-danger-assessment-on?p=vidas-vision-based-danger-assessment-and) <br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidas-vision-based-danger-assessment-and/fixed-few-shot-prompting-danger-assessment-on)](https://paperswithcode.com/sota/fixed-few-shot-prompting-danger-assessment-on?p=vidas-vision-based-danger-assessment-and)
-
 - 🔭 I’m currently working on Spiking Neural Networks
 
 - 🌱 I’m currently learning **CUDA, JAX, Brian2, NEST, NEURON and Lava for Neuromorphic Systems and Computational Neuroscience**
