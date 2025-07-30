@@ -35,4 +35,4 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=10" alt="diacod-i" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark" alt="diacod-i" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="diacod-i" /></p>
