@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord" alt="diacod-i" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
 - 🔭 I’m currently working on Spiking Neural Networks
 
