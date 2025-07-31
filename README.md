@@ -46,7 +46,7 @@
 </p>
 <h3 align="left"></h3>
 
-<br>
+<br><br><br>
 <h2 align="left">Some of my stats :P</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
