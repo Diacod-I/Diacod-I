@@ -7,9 +7,11 @@
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
-<h2 align="left">Research Papers :o</h2>
+<h2 align="left">Recent Research Work :o</h2>
 
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
+
+[2] Advith Krishnan, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**
 
 <h2 align="left">Online Presence :D</h2>
 <h3 align="left">I'm featured here!</h2>
