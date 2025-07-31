@@ -3,14 +3,13 @@
 <h1 align="center">Hi 👋, I'm Advith Krishnan</h1>
 <h3 align="center">9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
-
 - 🔭 I’m currently working on a **Retrieval-Augmented Generation (RAG) framework** for Root Cause Analysis across **IBM Mainframes and Cloud Infrastructure** (Linux Foundation Mentorship)
 
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
 <h2 align="left">I'm featured here! :D</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
 - ✍️ [Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 
