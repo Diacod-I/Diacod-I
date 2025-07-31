@@ -18,6 +18,14 @@
 
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
+<h2 align="left">My stats :P</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=10" alt="diacod-i" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
+</p>
+
 <h2 align="left">My Skillset :V</h2>
 <h3 align="left">Artificial Intelligence</h3>
 <p align="left">
@@ -47,13 +55,6 @@
 <h3 align="left"></h3>
 
 <br><br><br>
-<h2 align="left">Some of my stats :P</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=10" alt="diacod-i" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
-</p>
 
 <h2 align="left">Check out my other proflies :) (Click on the logos!)</h2>
 <h3 align="left">Socials</h3>
