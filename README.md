@@ -19,7 +19,8 @@
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
 <h2 align="center">My proflies :)</h2>
-<p align="center"><b>(Pssttttt!!! Click on the logos to check them out!)</b></p>
+<p align="center"><b>(Pssttttt!!! Toggle to open the list and click on the logos to check them out!)</b></p>
+<details>
 <h3 align="left">Socials</h3>
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
@@ -48,6 +49,8 @@
   <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
   <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
   <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a>
+</details>
+
 
 <br><h2 align="center">My stats :P</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
@@ -58,7 +61,7 @@
 </p>
 
 <br><h2 align="center">My Skillset :V</h2>
-
+<details>
 <h3 align="left">AI/ML & Data Science</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -135,10 +138,10 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-00783C?style=for-the-badge&logo=esri&logoColor=white" />
 </p>
+</details>
 
-
-<br><h2 align="center">Software that I use :3</h2>
-
+<br><h2 align="center">Software I use :3</h2>
+<details>
 <h3 align="left">IDEs & Editors</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -179,3 +182,4 @@
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+</details>
