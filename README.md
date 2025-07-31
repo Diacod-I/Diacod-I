@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
-<h2 align="left">I'm featured here :D</h3>
+<h2 align="left">I'm featured here! :D</h3>
 
 - ✍️ [Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 
