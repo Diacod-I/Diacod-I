@@ -19,8 +19,12 @@
 - 📰 [Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)
-- 🧠 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team)
-- 📚 [ACM Digital Library – ViDAS: Vision-based Danger Assessment](https://dl.acm.org/doi/10.1145/3702250.3702279)
+- 🧠 [Neural Bionics Lab Team (Scroll to the Alumni Section)](https://www.neuralbionicslab.com/team)
+
+<h3 align="left">Research Papers</h3>
+
+
+- Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ViDAS: Vision-based Danger Assessment and Scoring. In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
 <h3 align="left">Connect with me :) (Click on the logos!)</h3>
 <p align="left">
