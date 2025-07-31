@@ -1,21 +1,21 @@
 
 <!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=200 width=1000>-->
-<h1 align="left">Hi 👋, I'm Advith Krishnan :)</h1>
-<h3 align="left">9 PM - 5 AM caffeine thief with a broken circadian rhythm with a builder's high</h3>
+<h1 align="center">Hi 👋, I'm Advith Krishnan :)</h1>
+<h3 align="center">9 PM - 5 AM caffeine thief with a broken circadian rhythm with a builder's high</h3>
 
 - 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship)**
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
-<h2 align="left">My stats :P</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
+<h2 align="center">My stats :P</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=10" alt="diacod-i" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
 
-<h2 align="left">Online Presence :D</h2>
+<br><h2 align="center">Online Presence :D</h2>
 <h3 align="left">I'm featured here!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
@@ -23,8 +23,7 @@
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
 <h3 align="left">Community/Social Profiles</h3>
-<p align="left">(Pssttttt!!! Toggle to open the list and click on the logos to check them out!)</p>
-<details>
+<p align="left">(Pssttttt!!! Click on the logos to check them out!)</p>
 <h3 align="left">Socials</h3>
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
@@ -53,15 +52,14 @@
   <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
   <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
   <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a>
-</details>
 
-<h2 align="left">Recent Research Work :o</h2>
+<br><br><h2 align="center">Recent Research Work :o</h2>
 
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
 [2] Advith Krishnan, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**
 
-<h2 align="left">My Skillset :V</h2>
+<br><h2 align="center">My Skillset :V</h2>
 <details>
 <h3 align="left">AI/ML & Data Science</h3>
 <p align="left">
@@ -77,6 +75,7 @@
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -136,12 +135,11 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-00783C?style=for-the-badge&logo=esri&logoColor=white" />
 </p>
 </details>
 
-<br><h2 align="left">Software I use :3</h2>
+<br><h2 align="center">Software I use :3</h2>
 <details>
 <h3 align="left">IDEs & Editors</h3>
 <p align="left">
