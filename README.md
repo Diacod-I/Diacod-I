@@ -18,7 +18,7 @@
 
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
-<h2 align="center">My proflies :)</h2>
+<h2 align="center">Online Presence :)</h2>
 <p align="center"><b>(Pssttttt!!! Toggle to open the list and click on the logos to check them out!)</b></p>
 <details>
 <h3 align="left">Socials</h3>
