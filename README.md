@@ -4,7 +4,6 @@
 <h3 align="center">9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high</h3>
 
 - 🔭 I’m currently working on a **Retrieval-Augmented Generation (RAG) framework** across IBM Mainframes and Cloud Infrastructure **(Linux Foundation Mentorship)**
-
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
