@@ -17,7 +17,7 @@
 - ✍️ [Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)
-- 🦾� [Neural Bionics Lab Team (Scroll to the Alumni Section)](https://www.neuralbionicslab.com/team)
+- 🦾 [Neural Bionics Lab Team (Scroll to the Alumni Section)](https://www.neuralbionicslab.com/team)
 
 <h2 align="left">Research Papers :o</h3>
 
