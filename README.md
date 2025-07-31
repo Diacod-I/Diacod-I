@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
-- 🔭 I’m currently working on:  
-  - A **Retrieval-Augmented Generation (RAG) framework** for Root Cause Analysis across **IBM Mainframes and Cloud Infrastructure** (Linux Foundation Mentorship)  
-  - **Health and Wellness AI apps** using **Computer Vision**, **LLMs**, and **Next.js/FastAPI stacks**
+- 🔭 I’m currently working on a **Retrieval-Augmented Generation (RAG) framework** for Root Cause Analysis across **IBM Mainframes and Cloud Infrastructure** (Linux Foundation Mentorship)
 
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
