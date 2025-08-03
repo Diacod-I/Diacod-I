@@ -1,10 +1,8 @@
 
 <!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=200 width=1000>-->
 <h1 align="center">Hi 👋, I'm Advith Krishnan :)</h1>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Engineer;AI+Researcher;Upcoming+Designer" alt="Typing SVG" /></a>
-</div>
-<h3 align="center">9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high</h3>
+
+<h3 align="center">A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high</h3>
 
 - 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship)**
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
