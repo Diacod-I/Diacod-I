@@ -66,6 +66,8 @@
 
 [2] **Advith Krishnan**, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**
 
+[3] Amutha A L, Krishnan A, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
+
 <br><h2 align="center">My Skillset :V</h2>
 <details>
 <h3 align="left">AI/ML & Data Science</h3>
