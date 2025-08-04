@@ -15,13 +15,15 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
 
-<br><h2 align="center">Online Presence :D</h2>
-<h3 align="center">I'm featured here!</h2>
+<br>
+<h2 align="center">I'm featured here!</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
 - ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
+
+<br><h2 align="center">Online Presence :D</h2>
 <h3 align="center">Community/Social Profiles</h3>
 <p align="center">(Pssttttt!!! Click on the logos to check them out!)</p>
 <h3 align="center">Socials</h3>
