@@ -16,16 +16,16 @@
 </p>
 
 <br><h2 align="center">Online Presence :D</h2>
-<h3 align="left">I'm featured here!</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
+<h3 align="center">I'm featured here!</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
 - ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
-<h3 align="left">Community/Social Profiles</h3>
-<p align="left">(Pssttttt!!! Click on the logos to check them out!)</p>
-<h3 align="left">Socials</h3>
-<p align="left">
+<h3 align="center">Community/Social Profiles</h3>
+<p align="center">(Pssttttt!!! Click on the logos to check them out!)</p>
+<h3 align="center">Socials</h3>
+<p align="center">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="advith-krishnan" /></a>
   <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
@@ -34,24 +34,28 @@
   <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
 </p>
 
-<h3 align="left">Competitive Coding/Hackathons</h3>
-  <p align="left">
+<h3 align="center">Competitive Coding/Hackathons</h3>
+  <p align="center">
   <a href="https://leetcode.com/u/holytempura/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/holytempura" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://devpost.com/advithsonu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/aa3620" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-</p>
+  </p>
 
-<h3 align="left">Research</h3>
+<h3 align="center">Research</h3>
+  <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=5GQVlvYAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="lucihere" /></a>
   <a href="https://www.researchgate.net/profile/Advith-Krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="lucihere" /></a>
   <a href="https://orcid.org/0009-0009-6207-5271" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="lucihere" /></a>
+  </p>
 
-<h3 align="left">Blogs</h3>
+<h3 align="center">Blogs</h3>
+<p align="center">
   <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucihere" /></a>
   <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
   <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
   <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a>
+</p>
 
 
 <br><h2 align="center">Recent Research Work :o</h2>
