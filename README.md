@@ -1,13 +1,12 @@
 <!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=300 width=1000>-->
 <h1 align="center">Hi 👋, I'm Advith Krishnan :)</h1>
 
-<h3 align="center">A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high</h3>
+<h3 align="center">A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.</h3>
 
-- 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship)**
-- 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
-- 👯 I’m looking to collaborate on **cutting-edge AI engineering**
+- 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship).**
+- 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products.**
+- 👯 I’m looking to collaborate on **cutting-edge AI engineering.**
 
-<h2 align="right">My stats :P</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
 <p align="center">
@@ -16,7 +15,7 @@
 </p>
 
 <br>
-<h2 align="right">I'm featured here!</h2>
+<h2 align="right">I'm featured here! :P</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
 - ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
