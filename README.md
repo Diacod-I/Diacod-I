@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products**
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering**
 
-<h2 align="center">My stats :P</h2>
+<h2 align="right">My stats :P</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
 
 <p align="center">
@@ -16,19 +16,19 @@
 </p>
 
 <br>
-<h2 align="center">I'm featured here!</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
+<h2 align="right">I'm featured here!</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 
 - ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
 
-<br><h2 align="center">Online Presence :D</h2>
-<h3 align="center">Community/Social Profiles</h3>
-<p align="center">(Pssttttt!!! Click on the logos to check them out!)</p>
-<h3 align="center">Socials</h3>
-<p align="center">
+<br><h2 align="right">Online Presence :D</h2>
+<h3 align="left">Community/Social Profiles</h3>
+<p align="left">(Pssttttt!!! Click on the logos to check them out!)</p>
+<h3 align="left">Socials</h3>
+<p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="advith-krishnan" /></a>
   <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
@@ -37,23 +37,23 @@
   <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
 </p>
 
-<h3 align="center">Competitive Coding/Hackathons</h3>
-  <p align="center">
+<h3 align="left">Competitive Coding/Hackathons</h3>
+  <p align="left">
   <a href="https://leetcode.com/u/holytempura/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/holytempura" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://devpost.com/advithsonu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/aa3620" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   </p>
 
-<h3 align="center">Research</h3>
-  <p align="center">
+<h3 align="left">Research</h3>
+  <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=5GQVlvYAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="lucihere" /></a>
   <a href="https://www.researchgate.net/profile/Advith-Krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="lucihere" /></a>
   <a href="https://orcid.org/0009-0009-6207-5271" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="lucihere" /></a>
   </p>
 
-<h3 align="center">Blogs</h3>
-<p align="center">
+<h3 align="left">Blogs</h3>
+<p align="left">
   <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucihere" /></a>
   <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
   <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
@@ -61,7 +61,7 @@
 </p>
 
 
-<br><h2 align="center">Recent Research Work :o</h2>
+<br><h2 align="right">Recent Research Work :o</h2>
 
 [1] Pranav Gupta, **Advith Krishnan**, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
@@ -69,7 +69,7 @@
 
 [3] Amutha A L, Krishnan A, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
 
-<br><h2 align="center">My Skillset :V</h2>
+<br><h2 align="right">My Skillset :V</h2>
 <details>
 <h3 align="left">AI/ML & Data Science</h3>
 <p align="left">
@@ -151,7 +151,7 @@
 </p>
 </details>
 
-<br><h2 align="center">Software I use :3</h2>
+<br><h2 align="right">Software I use :3</h2>
 <details>
 <h3 align="left">IDEs & Editors</h3>
 <p align="left">
