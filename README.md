@@ -25,7 +25,7 @@
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
 
 <br><h2 align="right">Online Presence :D</h2>
-<h3 align="left">Community/Social Profiles</h3>
+<h3 align="right">Community/Social Profiles</h3>
 <p align="left">(Pssttttt!!! Click on the logos to check them out!)</p>
 <h3 align="left">Socials</h3>
 <p align="left">
