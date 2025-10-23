@@ -18,6 +18,22 @@
 
 
 <br>
+<h2 align="right">Check out my portfolio! 🌐</h2>
+
+<p align="center">
+  A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about my tech views and show what I am working on!
+  <br><br>
+  👉 <a href="https://adviths-blogfolio.vercel.app/" target="_blank"><b>adviths-blogfolio.vercel.app</b></a>
+</p>
+
+<!-- Optional live screenshot preview -->
+<p align="center">
+  <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
+    <img src="https://api.microlink.io/?url=https://adviths-blogfolio.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
+  </a>
+</p>
+
+<br>
 <h2 align="right">I'm featured here! :P</h2>
 
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
@@ -29,6 +45,11 @@
 
 <br><h2 align="right">Online Presence :D</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
+<p align="center">
+  <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎_Visit%20My%20Blogfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="advith-blogfolio" />
+  </a>
+</p>
 <h3 align="left">Socials</h3>
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
