@@ -44,12 +44,10 @@
 - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
 
 <br><h2 align="right">Online Presence :D</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
-<p align="center">
   <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌎_Visit%20My%20Blogfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="advith-blogfolio" />
   </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
 <h3 align="left">Socials</h3>
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
