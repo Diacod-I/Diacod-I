@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **cutting-edge AI engineering.**
 -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook&langs_count=20" alt="diacod-i" />
