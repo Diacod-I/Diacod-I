@@ -23,7 +23,7 @@
 <p align="center">
   A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about my tech views and show what I am working on!
   <br><br>
-  👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
+  👉 <a href="https://adviths-blogfolio.vercel.app/" target="_blank"><b>adviths-blogfolio.vercel.app</b></a>
 </p>
 
 <!-- Optional live screenshot preview -->
@@ -41,10 +41,10 @@
 - ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
-- 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section)
+<!-- - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section) -->
 
 <br><h2 align="right">Online Presence :D</h2>
-  <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
+  <a href="https://advithkrishnan.com" target="_blank">
     <img src="https://img.shields.io/badge/🌎_Visit%20My%20Blogfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="advith-blogfolio" />
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
