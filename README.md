@@ -23,7 +23,7 @@
 <p align="center">
   A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about my tech views and show what I am working on!
   <br><br>
-  👉 <a href="https://adviths-blogfolio.vercel.app/" target="_blank"><b>adviths-blogfolio.vercel.app</b></a>
+  👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
 </p>
 
 <!-- Optional live screenshot preview -->
