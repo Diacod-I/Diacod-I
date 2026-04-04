@@ -166,7 +166,7 @@
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 </p>
 
-<h3 align="left">Devops</h3>
+<h3 align="left">DevOps</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white" />
