@@ -176,11 +176,6 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  
-</p>
-
 <h3 align="left">UI/Frontend Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
