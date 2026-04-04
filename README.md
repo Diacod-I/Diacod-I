@@ -1,8 +1,6 @@
 <!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=300 width=1000>-->
-<h1 align="center">Hi 👋, I'm Advith Krishnan :)</h1>
-
-<h3 align="center">A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.</h3>
-<br>
+### Hi 👋, I'm Advith Krishnan :) 
+#### > A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.
 <!--
 - 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship).**
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products.**
@@ -127,6 +125,7 @@
   <img src="https://img.shields.io/badge/Sanity-ff385c?style=for-the-badge&logo=sanity&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Foundry-000?sty;e=for-the-badge&logo=foundry&logoColor=fff" />
 </p>
 
 <h3 align="left">Cloud & Infrastructure</h3>
@@ -191,6 +190,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=#de5fe9" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
