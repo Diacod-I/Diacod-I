@@ -10,15 +10,8 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p> -->
 
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook&langs_count=20" alt="diacod-i" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
-</p>
--->
-
 <br>
-<h2 align="right">Check out my portfolio! 🌐</h2>
+<h2 align="right">🌐 Check out my portfolio!</h2>
 
 <p align="center">
   A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about my tech views and show what I am working on!
@@ -26,11 +19,17 @@
   👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
 </p>
 
-<!-- Optional live screenshot preview -->
 <p align="center">
   <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
     <img src="https://api.microlink.io/?url=https://adviths-blogfolio.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
   </a>
+</p>
+
+<br>
+<h2 align="right">📈 Some of my stats!</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=20&" alt="diacod-i" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
 
 <br>
