@@ -43,14 +43,18 @@
 <!-- - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section) -->
 
 <br><h2 align="right">Online Presence :D</h2>
-  <a href="https://advithkrishnan.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌎_Visit%20My%20Blogfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="advith-blogfolio" />
-  </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" /> </p>
-<h3 align="left">Socials</h3>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span><p align="right"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" />
+</p></span>
+  <h3 align="left">Socials</h3>
+</div>
+
+
+
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="advith-krishnan" /></a>
+  <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="advith-krishnan" /></a>
   <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
   <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="diablo_rojo.27" /></a>
   <a href="https://stackoverflow.com/users/18178157/eto-mistier-parince" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="diablo_rojo.27" /></a>
