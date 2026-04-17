@@ -139,6 +139,7 @@
   <img src="https://img.shields.io/badge/Pydantic-0f1e2b?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Sanity-ff385c?style=for-the-badge&logo=sanity&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wagmi-000?style=for-the-badge&logo=wagmi&logoColor=fff" />
 </p>
 
 <h3 align="left">Cloud & Infrastructure</h3>
