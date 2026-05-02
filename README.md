@@ -26,11 +26,13 @@
 </p>
 
 <br>
+<!--
 <h2 align="right">📈 Some of my stats!</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=20&" alt="diacod-i" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
+-->
 
 <br>
 <h2 align="right">I'm featured here! :P</h2>
