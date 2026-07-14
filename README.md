@@ -16,7 +16,7 @@
 <h2 align="right">🌐 Check out my portfolio!</h2>
 
 <p align="center">
-  A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about my tech views and show what I am working on!
+  A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about ML Systems and show what I am working on!
   <br><br>
   👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
 </p>
