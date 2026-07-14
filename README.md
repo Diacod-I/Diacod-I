@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://adviths-blogfolio.vercel.app/" target="_blank">
-    <img src="https://api.microlink.io/?url=https://adviths-blogfolio.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
+  <a href="https://advithkrishnan.com" target="_blank">
+    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
   </a>
 </p>
 
@@ -52,14 +52,12 @@
   <h3 align="left">Socials</h3>
 </div>
 
-
-
 <p align="left">
   <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="advith-krishnan" /></a>
   <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
   <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="diablo_rojo.27" /></a>
-  <a href="https://stackoverflow.com/users/18178157/eto-mistier-parince" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="diablo_rojo.27" /></a>
+  <!-- <a href="https://stackoverflow.com/users/18178157/eto-mistier-parince" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="diablo_rojo.27" /></a> -->
   <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
 </p>
 
@@ -68,22 +66,23 @@
   <a href="https://leetcode.com/u/holytempura/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/holytempura" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://devpost.com/advithsonu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/aa3620" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <!-- <a href="https://www.hackerrank.com/profile/aa3620" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> -->
   </p>
 
 <h3 align="left">Research</h3>
   <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=5GQVlvYAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="lucihere" /></a>
-  <a href="https://www.researchgate.net/profile/Advith-Krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="lucihere" /></a>
+  <!-- <a href="https://www.researchgate.net/profile/Advith-Krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="lucihere" /></a> -->
   <a href="https://orcid.org/0009-0009-6207-5271" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="lucihere" /></a>
   </p>
 
 <h3 align="left">Blogs</h3>
 <p align="left">
-  <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucihere" /></a>
+  <a href="https://substack.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff" alt="@advithkrishnan"/></a>
+  <!-- <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucihere" /></a>
   <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
   <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
-  <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a>
+  <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a> -->
 </p>
 
 
