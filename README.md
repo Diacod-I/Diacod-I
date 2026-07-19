@@ -1,9 +1,9 @@
 <!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=300 width=1000>-->
 ## Hi 👋, I'm Advith Krishnan :) 
-<b> 
+<i> 
  > A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
  > I'm on a personal mission to learn <i>almost</i> everything there is to be the best developer and master it.
-</b>
+</i>
 <!--
 - 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship).**
 - 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products.**
@@ -11,12 +11,12 @@
 -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p> -->
-
+<br>
 <br>
 <h2 align="right">🌐 Check out my portfolio!</h2>
 
 <p align="center">
-  A <b>Windows 98-inspired portfolio</b> and <b>personal blog</b> where I write about ML Systems and show what I am working on!
+  A Windows 98-inspired portfolio and personal blog where I write about ML Systems and show what I am working on!
   <br><br>
   👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
 </p>
@@ -49,8 +49,6 @@
 <br><h2 align="right">Online Presence :D</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span><p align="right"> <img src="https://komarev.com/ghpvc/?username=diacod-i&label=Profile%20views&color=334652&style=flat" alt="diacod-i" />
-</p></span>
   <h3 align="left">Socials</h3>
 </div>
 
@@ -87,8 +85,7 @@
   <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a> -->
 </p>
 
-
-<br><h2 align="right">Recent Research Work :o</h2>
+<h2 align="right">Recent Research Work :o</h2>
 
 [1] Pranav Gupta, <mark style="background-color: D3D3D3">**Advith Krishnan**</mark>, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
 
