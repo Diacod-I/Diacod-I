@@ -13,12 +13,12 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p> -->
 <br>
 <br>
-<h2 align="right">🌐 Check out my portfolio!</h2>
+<h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
 
 <p align="center">
   A Windows 98-inspired portfolio and personal blog where I write about ML Systems and show what I am working on!
-  <br><br>
-  👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a>
+  <br>
+  <!-- 👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a> -->
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@
   </a>
 </p>
 
-<br>
 <!--
 <h2 align="right">📈 Some of my stats!</h2>
 <p align="center">
@@ -35,8 +34,6 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
 -->
-
-<br>
 <h2 align="right">I'm featured here! :P</h2>
 
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
