@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Advith Krishnan :) 
 <i> 
  > A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
- > I'm on a personal mission to learn <i>almost</i> everything there is to be the best developer and master it.
+ > I'm on a personal mission to learn <i>almost</i> everything to become the best developer and master it.
 </i>
 <!--
 - 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship).**
