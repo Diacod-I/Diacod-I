@@ -34,14 +34,14 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
 </p>
 -->
-<h2 align="right">I'm featured here! :P</h2>
 
-- 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
-- ✍️ [Open Mainframe Project Summer Mentorship 2025 - RAG to Riches: Using Your Legacy Data](https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/) (Final Report)
-- ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
-- 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
-- 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
-<!-- - 🦾 [Neural Bionics Lab Team](https://www.neuralbionicslab.com/team) (Go to the "Alumni" Section) -->
+<h2 align="right">Recent Research Work :o</h2>
+
+[1] Pranav Gupta, <mark style="background-color: D3D3D3">**Advith Krishnan**</mark>, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
+
+[2] <mark style="background-color: D3D3D3">**Advith Krishnan**</mark>, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**
+
+[3] Amutha A L, <mark style="background-color: D3D3D3">**Krishnan A**</mark>, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
 
 <br><h2 align="right">Online Presence :D</h2>
 
@@ -76,19 +76,15 @@
 <h3 align="left">Blogs</h3>
 <p align="left">
   <a href="https://substack.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff" alt="@advithkrishnan"/></a>
-  <!-- <a href="https://dev.to/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="lucihere" /></a>
-  <a href="https://medium.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="lucihere" /></a>
-  <a href="https://hashnode.com/@Diabolikl2" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="lucihere" /></a>
-  <a href="https://app.daily.dev/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="diablo_rojo.27" /></a> -->
 </p>
 
-<h2 align="right">Recent Research Work :o</h2>
+<h2 align="right">I'm featured here! :P</h2>
 
-[1] Pranav Gupta, <mark style="background-color: D3D3D3">**Advith Krishnan**</mark>, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. ***ViDAS: Vision-based Danger Assessment and Scoring.*** In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [https://doi.org/10.1145/3702250.3702279](https://dl.acm.org/doi/10.1145/3702250.3702279)
-
-[2] <mark style="background-color: D3D3D3">**Advith Krishnan**</mark>, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**
-
-[3] Amutha A L, <mark style="background-color: D3D3D3">**Krishnan A**</mark>, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
+- 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
+- ✍️ [Open Mainframe Project Summer Mentorship 2025 - RAG to Riches: Using Your Legacy Data](https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/) (Final Report)
+- ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
+- 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
+- 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
 
 <!--
 <br><h2 align="right">My Skillset :V</h2>
