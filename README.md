@@ -90,18 +90,13 @@
 
 [3] Amutha A L, <mark style="background-color: D3D3D3">**Krishnan A**</mark>, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
 
+<!--
 <br><h2 align="right">My Skillset :V</h2>
 <details>
 <summary>Click to expand the list of my skills</summary>
 <h3 align="left">AI/ML & Data Science</h3>
 <p align="left">
-  <!--
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  -->
+
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/JAX-222827?style=for-the-badge&logo=jax&logoColor=ffffff" />
@@ -280,3 +275,4 @@
 </p>
 
 </details>
+-->
