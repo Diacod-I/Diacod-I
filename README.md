@@ -1,16 +1,9 @@
-<!--<img src="https://github.com/Diacod-I/Diacod-I/assets/98768417/4523b1f5-8cf3-4ce5-a037-533fa1975d8e" height=300 width=1000>-->
 ## Hi 👋, I'm Advith Krishnan :) 
 <i> 
  > A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
  > I'm on a personal mission to learn <i>almost</i> everything to become the best developer and master it.
 </i>
-<!--
-- 🔭 I’m currently building a **RAG framework** across IBM Mainframes and Cloud Infra. **(Linux Foundation Mentorship).**
-- 🌱 I’m currently learning **cloud-native AI deployment and high-level system design for scalable AI products.**
-- 👯 I’m looking to collaborate on **cutting-edge AI engineering.**
--->
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diacod-i&theme=nord&title=-Reviews" alt="diacod-i" /></a> </p> -->
 <br>
 <br>
 <h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
@@ -18,7 +11,6 @@
 <p align="center">
   A Windows 98-inspired portfolio and personal blog where I write about ML Systems and show what I am working on!
   <br>
-  <!-- 👉 <a href="https://advithkrishnan.com" target="_blank"><b>advithkrishnan.com</b></a> -->
 </p>
 
 <p align="center">
@@ -26,14 +18,6 @@
     <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
   </a>
 </p>
-
-<!--
-<h2 align="right">📈 Some of my stats!</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diacod-i&show_icons=true&locale=en&layout=donut&theme=dark&hide=jupyter%20notebook,purebasic&langs_count=20&" alt="diacod-i" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diacod-i&show_icons=true&locale=en&theme=dark&show=reviews,prs_merged,prs_merged_percentage" alt="diacod-i" />
-</p>
--->
 
 <h2 align="right">Recent Research Work :o</h2>
 
@@ -45,17 +29,9 @@
 
 <br><h2 align="right">Online Presence :D</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 align="left">Socials</h3>
-</div>
-
+<h3 align="left">Blogs</h3>
 <p align="left">
-  <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="advith-krishnan" /></a>
-  <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
-  <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="diablo_rojo.27" /></a>
-  <!-- <a href="https://stackoverflow.com/users/18178157/eto-mistier-parince" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="diablo_rojo.27" /></a> -->
-  <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
+  <a href="https://substack.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff" alt="@advithkrishnan"/></a>
 </p>
 
 <h3 align="left">Competitive Coding/Hackathons</h3>
@@ -63,19 +39,21 @@
   <a href="https://leetcode.com/u/holytempura/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/holytempura" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://devpost.com/advithsonu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
-  <!-- <a href="https://www.hackerrank.com/profile/aa3620" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> -->
   </p>
 
 <h3 align="left">Research</h3>
   <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=5GQVlvYAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="lucihere" /></a>
-  <!-- <a href="https://www.researchgate.net/profile/Advith-Krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="lucihere" /></a> -->
   <a href="https://orcid.org/0009-0009-6207-5271" target="blank"><img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="lucihere" /></a>
   </p>
 
-<h3 align="left">Blogs</h3>
+ <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://substack.com/@advithkrishnan" target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff" alt="@advithkrishnan"/></a>
+  <a href="mailto:advithkrishnan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="advith-krishnan" /></a>
+  <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
+  <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="diablo_rojo.27" /></a>
+  <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
 </p>
 
 <h2 align="right">I'm featured here! :P</h2>
@@ -87,11 +65,11 @@
 - 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
 
 <!--
-<br><h2 align="right">My Skillset :V</h2>
-<details>
-<summary>Click to expand the list of my skills</summary>
-<h3 align="left">AI/ML & Data Science</h3>
-<p align="left">
+ <br><h2 align="right">My Skillset :V</h2>
+ <details>
+ <summary>Click to expand the list of my skills</summary>
+ <h3 align="left">AI/ML & Data Science</h3>
+ <p align="left">
 
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff" />
