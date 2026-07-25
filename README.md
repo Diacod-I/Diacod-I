@@ -7,7 +7,6 @@
 <br>
 <br>
 <h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
-
 <p align="center">
   <br>
 </p>
