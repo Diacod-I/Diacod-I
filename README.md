@@ -21,6 +21,7 @@
 
 [3] Amutha A L, <mark style="background-color: D3D3D3">**Krishnan A**</mark>, Varatharajan T, Kumar A, Ramasubramanian M, Krishnaraj L ”Optimizing smoke detection: A hybrid U-Net Approach with advanced CNN models through satellite image segmentation”
 
+<!--
 <br><h2 align="right">Online Presence :D</h2>
 
 <h3 align="left">Blogs</h3>
@@ -33,6 +34,7 @@
   <a href="https://leetcode.com/u/holytempura/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/holytempura" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://devpost.com/advithsonu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
+   <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
   </p>
 
 <h3 align="left">Research</h3>
@@ -47,8 +49,8 @@
   <a href="https://linkedin.com/in/advithkrishnan" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="advith-krishnan" /></a>
   <a href="https://twitter.com/advith_krishnan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="advith_krishnan" /></a>
   <a href="https://instagram.com/diablo_rojo.27" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="diablo_rojo.27" /></a>
-  <a href="https://www.kaggle.com/lucihere" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="diablo_rojo.27" /></a>
 </p>
+-->
 
 <h2 align="right">I'm featured here! :P</h2>
 
