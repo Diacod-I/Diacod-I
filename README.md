@@ -9,7 +9,7 @@
 <h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
 
 <p align="center">
-  A Windows 98-inspired portfolio and personal blog where I write about ML Systems and show what I am working on!
+  I write about ML Systems and show what I am working on here!
   <br>
 </p>
 
