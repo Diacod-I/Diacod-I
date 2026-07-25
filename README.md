@@ -9,7 +9,6 @@
 <h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
 
 <p align="center">
-  I write about ML Systems and show what I am working on here!
   <br>
 </p>
 
