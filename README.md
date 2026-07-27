@@ -2,7 +2,7 @@
 <i> 
  > Contributer @ PyTorch <br>
  > 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
- > On a personal mission to learn <i>almost</i> everything to become the best developer and master it.
+ > On a personal mission to learn <i>almost</i> everything in software and AI engineering, and become one of the best devs in the world.
 </i>
 <br>
 <br>
