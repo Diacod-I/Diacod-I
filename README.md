@@ -1,7 +1,7 @@
 <h2 align="left"> Hi 👋, I'm Advith Krishnan [ :) ] </h2>
 <i> 
  > Systems Engineer @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA <br>
- > Contributor @ <a href="https://github.com/pytorch/pytorch">pytorch/pytorch</a>, Open Mainframe Project <br>
+ > Contributor @ <a href="https://github.com/pytorch/pytorch">pytorch/pytorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a> <br>
  > 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
 </i>
 
@@ -21,10 +21,8 @@
 <h2 align="left">I'm featured here! [ :P ]</h2>
 
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
-- ✍️ [Open Mainframe Project Summer Mentorship 2025 - RAG to Riches: Using Your Legacy Data](https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/) (Final Report)
-- ✍️ [Open Mainframe Project Mentorship Blog Series: RAG to Riches – Using Your Legacy Data](https://openmainframeproject.org/blog/mentorship-series-rag-to-riches-using-your-legacy-data-by-advith-krishnan/)
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
-- 📝 [Post for Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
+- 📝 [Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
 
 <h2 align="left">🌐 Check out my portfolio advithkrishnan.com! [ XD ]</h2> 
 <p align="center">
