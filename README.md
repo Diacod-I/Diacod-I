@@ -1,4 +1,4 @@
-## Hi 👋, I'm Advith Krishnan :) 
+## Hi 👋, I'm Advith Krishnan [ :) ] 
 <i> 
  > Systems Engineer @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA <br>
  > Contributor @ <a href="https://github.com/pytorch/pytorch">pytorch/pytorch</a>, Open Mainframe Project <br>
@@ -6,7 +6,7 @@
  > On a personal mission to learn <i>almost</i> everything in software and AI engineering, and become one of the best devs in the world.
 </i>
 
-<h2 align="left">Recent Research Work :o</h2>
+<h2 align="left">Recent Research Work [ :o ]</h2>
 
 <div align="justify">
  
@@ -19,7 +19,7 @@
 </div>
 
 
-<h2 align="left">I'm featured here! :P</h2>
+<h2 align="left">I'm featured here! [ :P ]</h2>
 
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video)
 - ✍️ [Open Mainframe Project Summer Mentorship 2025 - RAG to Riches: Using Your Legacy Data](https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/) (Final Report)
