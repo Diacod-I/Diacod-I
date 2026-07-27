@@ -24,7 +24,7 @@
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section)
 - 📝 [Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)
 
-<h2 align="left">🌐 Check out my portfolio advithkrishnan.com! [ XD ]</h2> 
+<h2 align="left">🌐 Check out my portfolio advithkrishnan.com! [ :3 ]</h2> 
 <p align="center">
   <a href="https://advithkrishnan.com" target="_blank">
     <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
