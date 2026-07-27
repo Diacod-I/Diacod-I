@@ -3,7 +3,6 @@
  > A true 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
  > I'm on a personal mission to learn <i>almost</i> everything to become the best developer and master it.
 </i>
-
 <br>
 <br>
 <h2 align="right">🌐 Check out my portfolio advithkrishnan.com!</h2>
