@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋, I'm Advith Krishnan [ :) ] </h2>
+<h1 align="left"> Hi 👋, I'm Advith Krishnan [ :) ] </h2>
 <i> 
  > Systems Engineer @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA <br>
  > Contributor @ <a href="https://github.com/pytorch/pytorch">pytorch/pytorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a> <br>
