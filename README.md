@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋, I'm Advith Krishnan</h1>
 <i> 
  > Systems Engineer @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA <br>
- > Contributor @ <a href="https://github.com/pytorch/pytorch">pytorch/pytorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a> <br>
+ > Contributor @ <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Aclosed+is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a> <br>
  > 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
 </i>
 
