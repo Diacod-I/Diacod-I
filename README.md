@@ -3,6 +3,10 @@
   <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my site!">
     <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1200&viewport.height=450" alt="Advith's Blogfolio" width="800px" />
   </a>
+  <br/>
+  <a href="https://advithkrishnan.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1500&color=888888&center=true&vCenter=true&width=300&lines=%E2%86%B3+click+to+visit+%5B+%3A3+%5D" alt="click to visit" />
+  </a>
 </p>
 <h2 align="left"> Hi 👋, I'm <a href="https://advithkrishnan.com" target="_blank">Advith Krishnan</a> [ :3 ]</h1>
 <i> 
