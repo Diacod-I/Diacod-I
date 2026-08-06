@@ -4,7 +4,7 @@
     <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1200&viewport.height=450" alt="Advith's Blogfolio" width="800px" />
   </a>
 </p>
-<h1 align="left"> Hi 👋, I'm <a href="https://advithkrishnan.com" target="_blank">Advith Krishnan</a></h1>
+<h2 align="left"> Hi 👋, I'm <a href="https://advithkrishnan.com" target="_blank">Advith Krishnan</a> [ :3 ]</h1>
 <i> 
  > <b>Systems Engineer</b> @ <a href="https://github.com/Infosys">Infosys</a>; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  > <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
