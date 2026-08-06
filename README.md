@@ -1,7 +1,7 @@
 <!-- <h2 align="left">🌐 Check out my portfolio <a href="https://advithkrishnan.com" target="_blank">advithkrishnan.com</a>! [ :3 ]</h2>  -->
 <p align="center">
   <a href="https://advithkrishnan.com" target="_blank">
-    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
+    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="600px" />
   </a>
 </p>
 <h1 align="left"> Hi 👋, I'm <a href="https://advithkrishnan.com" target="_blank">Advith Krishnan</a></h1>
