@@ -1,6 +1,6 @@
 <!-- <h2 align="left">🌐 Check out my portfolio <a href="https://advithkrishnan.com" target="_blank">advithkrishnan.com</a>! [ :3 ]</h2>  -->
 <p align="center">
-  <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my site!">
+  <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my portfolio!">
     <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1200&viewport.height=450" alt="Advith's Blogfolio" width="800px" />
   </a>
   <a href="https://advithkrishnan.com" target="_blank">
