@@ -1,4 +1,10 @@
-<h1 align="left"> Hi 👋, I'm Advith Krishnan</h1>
+<!-- <h2 align="left">🌐 Check out my portfolio <a href="https://advithkrishnan.com" target="_blank">advithkrishnan.com</a>! [ :3 ]</h2>  -->
+<p align="center">
+  <a href="https://advithkrishnan.com" target="_blank">
+    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
+  </a>
+</p>
+<h1 align="left"> Hi 👋, I'm <a href="https://advithkrishnan.com" target="_blank">Advith Krishnan</a></h1>
 <i> 
  > <b>Systems Engineer</b> @ <a href="https://github.com/Infosys">Infosys</a>; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  > <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
@@ -26,9 +32,3 @@
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section).
 - 📝 [Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/).
 
-<h2 align="left">🌐 Check out my portfolio <a href="https://advithkrishnan.com" target="_blank">advithkrishnan.com</a>! [ :3 ]</h2> 
-<p align="center">
-  <a href="https://advithkrishnan.com" target="_blank">
-    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Advith's Blogfolio" width="800px" />
-  </a>
-</p>
