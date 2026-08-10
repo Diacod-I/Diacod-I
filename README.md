@@ -12,6 +12,7 @@
  > <b>Systems Engineer</b> @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  > <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  > 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
+ > I code, design, ideate and research (in no particular order!).
 </i>
 
 <h2 align="left">Recent Research Work [ :o ]</h2>
