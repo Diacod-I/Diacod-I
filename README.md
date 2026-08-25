@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my portfolio!">
-    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1200&viewport.height=450" alt="Advith's Blogfolio" width="800px" />
+    <img src="https://api.microlink.io/?url=https://advithkrishnan.com/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1200&viewport.height=500" alt="Advith's Blogfolio" width="800px" />
   </a>
 </p>
 <a href="https://advithkrishnan.com" target="_blank" title="Click to visit! [:3]">
