@@ -10,13 +10,11 @@
 </a>
 <h2 align="left">Hi 👋, I'm Advith Krishnan [ :) ]</h2>
 
-> Open to any work involving **1) ML Research 2) ML compilers 3) Blockchain/Web3** and **4) Kernel Engineering**. 
-
 <i> 
  > <b>Systems Engineer</b> @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  > <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  > 9 PM - 5 AM caffeine thief with a broken circadian rhythm and a builder's high.<br>
- > I code, design, cook, ideate, and research (in no particular order!).
+ > I code, design, cook, ideate, and research.
 </i>
 
 <h2 align="left">Recent Research Work [ :o ]</h2>
@@ -39,4 +37,8 @@
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video).
 - 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section).
 - 📝 [Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/).
+
+
+<h2 align="left">Works Interests [ :A ]</h2> 
+ML Research (specifically in LLMs, computational neuroscience, and inference), ML compilers, Blockchain/Web3, Kernel Engineering.
 
