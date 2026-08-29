@@ -16,6 +16,8 @@
  > I code, design, cook, ideate, and research (in no particular order!).
 </i>
 
+Open to any work involving production AI Systems, ML compilers, Blockchain/Web3, Full Stack and Kernel Engineering. 
+
 <h2 align="left">Recent Research Work [ :o ]</h2>
 
 <div align="justify">
