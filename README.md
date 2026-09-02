@@ -1,5 +1,3 @@
-<!-- <h2 align="left">🌐 Check out my portfolio <a href="https://advithkrishnan.com" target="_blank">advithkrishnan.com</a>! [ :3 ]</h2>  -->
-
 <p align="center">
   <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my portfolio!">
     <img width="1001" height="251" alt="Screenshot 2026-08-30 at 10 58 40 PM" src="https://github.com/user-attachments/assets/64431ea3-515c-4572-8040-05bac9216405" />
