@@ -29,7 +29,6 @@
 </i>
 </div>
 
-
 <h2 align="left">I'm featured here! [ :P ]</h2>
 
 - 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video).
