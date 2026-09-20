@@ -20,7 +20,7 @@
 <div align="justify">
 <i>
 
-[1] Pranav Gupta, <mark>Advith Krishnan</mark>, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. "ViDAS: Vision-based Danger Assessment and Scoring". In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. <a href="https://doi.org/10.1145/3702250.3702279">[Link]</a>.
+[1] Pranav Gupta, <mark>Advith Krishnan</mark>, Naman Nanda, Ananth Eswar, Deeksha Agrawal, Pratham Gohil, and Pratyush Goel. 2025. "ViDAS: Vision-based Danger Assessment and Scoring". In Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–9. [<a href="https://doi.org/10.1145/3702250.3702279">Link</a>].
 
 [2] <mark>Advith Krishnan</mark>, Saad Yunus Sait. ”Understanding Fine-grained classification with Deep Learning through Fish Species Identification” **(Bachelor Thesis)**.
 
@@ -31,11 +31,16 @@
 
 <h2 align="left">I'm featured here! [ :P ]</h2>
 
-- 🎥 [Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan](https://www.youtube.com/watch?v=W_UpWcV9_DU) (YouTube Video).
-- 📰 [Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/) (Go to "Modernization Working Group" Section).
-- 📝 [Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/).
+- 🎥 Sovereign-MCP @ ETHOnline 2026 [[Link](https://ethglobal.com/showcase/sovereign-mcp-qm8m1)].
+- 🎥 Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan [[Link](https://www.youtube.com/watch?v=W_UpWcV9_DU)].
+- 📰 Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight [[Link](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)].
+- 📝 Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024 [[Link](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)].
 
 
-<h2 align="left">Works Interests [ :A ]</h2> 
+<h2 align="left">Work Interests [ :A ]</h2> 
 ML Research (specifically in LLMs, computational neuroscience, and inference), ML compilers, Blockchain/Web3, Kernel Engineering.
+
+<h2 align="left">Contact me [ :X ]</h2>
+
+Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided on the left.
 
