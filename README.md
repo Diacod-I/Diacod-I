@@ -16,7 +16,6 @@
 </i>
 
 <h2 align="left">Recent Research Work [ :o ]</h2>
-
 <div align="justify">
 <i>
 
