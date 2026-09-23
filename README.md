@@ -15,7 +15,7 @@
  > I code, design, cook, ideate, and research.
 </i>
 
-<h2 align="left">Recent Research Work [ :o ]</h2>
+<h2 align="left">Recent Research Work [ :O ]</h2>
 <div align="justify">
 <i>
 
