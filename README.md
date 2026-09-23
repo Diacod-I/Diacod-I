@@ -6,7 +6,7 @@
 <a href="https://advithkrishnan.com" target="_blank" title="Click to visit! [:3]">
   <img align="right" width="400" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1500&color=888888&center=true&vCenter=true&width=400&lines=%E2%86%B3+Click+image+to+visit+my+portfolio!+%5B%3A3%5D" alt="click to visit" />
 </a>
-<h2 align="left">Hi 👋, I'm Advith Krishnan [ :) ]</h2>
+<h2 align="left">Hi 👋, I'm Advith Krishnan [ :D ]</h2>
 
 <i> 
  > <b>Systems Engineer</b> @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA.<br>
