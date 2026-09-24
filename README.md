@@ -38,7 +38,7 @@
 
 
 <h2 align="left">Work Interests [ :A ]</h2> 
-ML Research (specifically in LLMs, computational neuroscience, and inference), ML compilers, Blockchain/Web3, Kernel Engineering.
+ML Research (especially in LLMs, computational neuroscience, and inference), ML compilers, Blockchain/Web3, Kernel Engineering.
 
 <h2 align="left">Contact me [ :X ]</h2>
 
