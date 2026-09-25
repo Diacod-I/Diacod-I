@@ -13,6 +13,7 @@
  - <b>Systems Engineer</b> @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  - <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  - I code, design, cook, ideate, and research.
+ - I'm interested in ML Research (focus on agents, computational neuroscience, and ML inference), ML compilers, Blockchain/Web3, and Kernel Engineering.
 
 </i>
 
@@ -40,9 +41,6 @@
 - 📰 Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight [[Link](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)].
 - 📝 Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024 [[Link](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)].
 
-
-<h2 align="left">Work Interests [ :A ]</h2> 
-ML Research (especially in LLMs, computational neuroscience, and inference), ML compilers, Blockchain/Web3, Kernel Engineering.
 
 <h2 align="left">Contact me [ :X ]</h2>
 
