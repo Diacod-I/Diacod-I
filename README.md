@@ -41,6 +41,9 @@
 - 📰 Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight [[Link](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)].
 - 📝 Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024 [[Link](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)].
 
+<h2 align="left">My Skillset [ :U ]</h2>
+
+<img width="1300" height="595" alt="stack-light" src="https://github.com/user-attachments/assets/e241115f-7cd5-40ea-8040-fe8655326a02" />
 
 <h2 align="left">Contact me [ :X ]</h2>
 
