@@ -18,7 +18,7 @@
 
 <h2 align="left">Random Trophies</h2>
 
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
 
 <h2 align="left">Recent Research Work [ :O ]</h2>
 <div align="justify">
