@@ -44,3 +44,7 @@ ML Research (especially in LLMs, computational neuroscience, and inference), ML 
 
 Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided on the left.
 
+<h2 align="left">Random Trophies</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diacod-i)](https://github.com/ryo-ma/github-profile-trophy)
+
