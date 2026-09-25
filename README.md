@@ -16,11 +16,11 @@
 
 </i>
 
-<h2 align="left">Random Trophies</h2>
+<h2 align="left">GitHub Trophies [ :O ]</h2>
 
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
 
-<h2 align="left">Recent Research Work [ :O ]</h2>
+<h2 align="left">Recent Research Work [ :T ]</h2>
 <div align="justify">
 <i>
 
