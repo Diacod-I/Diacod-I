@@ -36,7 +36,7 @@
 
 <h2 align="left">I'm featured here! [ :P ]</h2>
 
-- 🎥 Sovereign-MCP @ ETHOnline 2026 [[Link](https://ethglobal.com/showcase/sovereign-mcp-qm8m1)].
+- 🎥 Sovereign-MCP @ ETHOnline 2026 (solo participation) [[Link](https://ethglobal.com/showcase/sovereign-mcp-qm8m1)].
 - 🎥 Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan [[Link](https://www.youtube.com/watch?v=W_UpWcV9_DU)].
 - 📰 Linux Foundation Mentorship – OMP Summer 2025 Mentee Spotlight [[Link](https://openmainframeproject.org/blog/omp-summer-2025-mentorship/)].
 - 📝 Paper Presenation at Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2024 [[Link](https://www.linkedin.com/feed/update/urn:li:activity:7274688007205502976/)].
