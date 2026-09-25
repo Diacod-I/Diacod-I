@@ -12,8 +12,8 @@
   
  - <b>Systems Engineer</b> @ Infosys; Prev. Linux Foundation, ETH Zurich, NASA.<br>
  - <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
- - I code, design, cook, ideate, and research.
- - I'm interested in ML Research (focus on agents, computational neuroscience, and ML inference), ML compilers, Blockchain/Web3, and Kernel Engineering.
+ - I code, design, cook, ideate, & research.
+ - Interested in agents, computational neuroscience, ML inference, ML compilers, & backend systems (with or without web3).
 
 </i>
 
