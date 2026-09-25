@@ -46,5 +46,4 @@ Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the socia
 
 <h2 align="left">Random Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diacod-i)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
