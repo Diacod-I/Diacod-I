@@ -16,6 +16,10 @@
 
 </i>
 
+<h2 align="left">Random Trophies</h2>
+
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
+
 <h2 align="left">Recent Research Work [ :O ]</h2>
 <div align="justify">
 <i>
@@ -43,7 +47,3 @@ ML Research (especially in LLMs, computational neuroscience, and inference), ML 
 <h2 align="left">Contact me [ :X ]</h2>
 
 Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided on the left.
-
-<h2 align="left">Random Trophies</h2>
-
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
