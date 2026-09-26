@@ -47,4 +47,4 @@
 
 <h2 align="left">Contact me [ :X ]</h2>
 
-Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided on the left.
+Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided below my profile picture.
