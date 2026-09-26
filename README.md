@@ -43,7 +43,7 @@
 
 <h2 align="left">My Skillset [ :U ]</h2>
 
-<img width="3840" height="2185" alt="skills_github" src="https://github.com/user-attachments/assets/9b54c58b-0c6b-4531-9c87-06b9caf86563" />
+<img width="3840" height="2185" alt="image" src="https://github.com/user-attachments/assets/8200667e-f024-421b-ae2d-a50281631a27" />
 
 <h2 align="left">Contact me [ :X ]</h2>
 
