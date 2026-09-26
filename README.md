@@ -11,7 +11,7 @@
 <i>
   
  - <b>Systems Engineer</b> @ Infosys; Previously @ Linux Foundation, ETH Zurich, NASA; Total of 2+ years of experience.<br>
- - <b>Contributing</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
+ - <b>Contributor</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  - I code, design, cook, ideate, & research.
  - <b>Interested to work on</b>: agents, computational neuroscience, ML compilers, ML inference, backend systems, payments, web3.
 
