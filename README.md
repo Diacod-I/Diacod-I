@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Compilers-f97316?style=for-the-badge" height="28" alt="Compilers"/></td>
-    <td><img src="https://skillicons.dev/icons?i=rust&theme=dark" height="40" title="Rust" alt="Rust"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch" alt="PyTorch"/> <img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/></td>
+    <td><img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Tooling-67e8f9?style=for-the-badge" height="28" alt="Tooling"/></td>
