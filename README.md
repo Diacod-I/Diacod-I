@@ -104,7 +104,7 @@
       <img src="https://streak-stats.demolab.com?user=Diacod-I&hide_border=true&border_radius=10&background=282c34&stroke=3e4451&ring=e4bf7a&fire=e4bf7a&currStreakNum=abb2bf&currStreakLabel=e4bf7a&sideNums=abb2bf&sideLabels=e4bf7a&dates=7f848e" width="100%" alt="GitHub streak"/>
     </td>
     <td width="42%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diacod-I&langs_count=6&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,html,css&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf" width="100%" alt="Top languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diacod-I&langs_count=7&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,html,css,mdx&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf" width="100%" alt="Top languages"/>
     </td>
   </tr>
 </table>
