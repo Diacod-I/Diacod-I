@@ -17,9 +17,39 @@
 
 </i>
 
-<h2 align="left">GitHub Trophies [ :O ]</h2>
+<h2 align="left">GitHub Stats [ :O ]</h2>
 
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org/)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://trophygithubreadmelang.cybee.dpdns.org/">
+        <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true&no-bg=true" width="100%" alt="GitHub trophies"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Diacod-I&show_icons=true&theme=onedark&hide_border=true" height="165" alt="GitHub stats"/>
+    </td>
+    <td rowspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diacod-I&langs_count=6&hide=jupyter%20notebook&theme=onedark&hide_border=true" height="345" alt="Top languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Diacod-I&theme=onedark&hide_border=true" height="165" alt="GitHub streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diacod-I&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diacod-I&style=flat-square&color=blueviolet&label=profile+views" alt="Profile views"/>
+</p>
 
 <h2 align="left">Research Work [ :T ]</h2>
 <div align="justify">
