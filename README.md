@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Compilers-f97316?style=for-the-badge" height="28" alt="Compilers"/></td>
-    <td><img src="assets/skills/arm.svg" height="40" title="ARM" alt="ARM"/> <img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/></td>
+    <td><img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Data_%26_BI-eab308?style=for-the-badge" height="28" alt="Data & BI"/></td>
@@ -79,7 +79,7 @@
     <td><img src="assets/skills/armasm.svg" height="40" title="ARM Assembly" alt="ARM Assembly"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" title="Bash" alt="Bash"/> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="40" title="C" alt="C"/> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" title="C++" alt="C++"/> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" title="JavaScript" alt="JavaScript"/> <img src="assets/skills/objectivec.svg" height="40" title="Objective-C" alt="Objective-C"/> <img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" title="Python" alt="Python"/> <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="40" title="Rust" alt="Rust"/> <img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="40" title="Solidity" alt="Solidity"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" title="TypeScript" alt="TypeScript"/></td>
   </tr>
     <td><img src="https://img.shields.io/badge/Systems_%26_Hardware-9ca3af?style=for-the-badge" height="28" alt="Systems & Hardware"/></td>
-    <td><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" title="Arch Linux" alt="Arch Linux"/> <img src="assets/skills/fedora.svg" height="40" title="Fedora" alt="Fedora"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" title="Linux" alt="Linux"/> <img src="https://skillicons.dev/icons?i=apple&theme=dark" height="40" title="macOS" alt="macOS"/> <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" height="40" title="Raspberry Pi" alt="Raspberry Pi"/></td>
+    <td><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" title="Arch Linux" alt="Arch Linux"/> <img src="assets/skills/arm.svg" height="40" title="ARM" alt="ARM"/> <img src="assets/skills/fedora.svg" height="40" title="Fedora" alt="Fedora"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" title="Linux" alt="Linux"/> <img src="https://skillicons.dev/icons?i=apple&theme=dark" height="40" title="macOS" alt="macOS"/> <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" height="40" title="Raspberry Pi" alt="Raspberry Pi"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Tooling-67e8f9?style=for-the-badge" height="28" alt="Tooling"/></td>
