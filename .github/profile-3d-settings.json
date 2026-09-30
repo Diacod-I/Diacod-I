@@ -1,0 +1,20 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-onedark.svg",
+  "backgroundColor": "#282c34",
+  "foregroundColor": "#abb2bf",
+  "strongColor": "#e4bf7a",
+  "weakColor": "#7f848e",
+  "radarColor": "#e4bf7a",
+  "growingAnimation": true,
+  "saturation": "50%",
+  "contribLightness": [
+    "20%",
+    "30%",
+    "35%",
+    "40%",
+    "50%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
+}
