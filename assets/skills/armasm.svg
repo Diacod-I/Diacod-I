@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <text x="128" y="112" fill="#0091BD" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="44" font-weight="700" text-anchor="middle">arm64</text>
+  <text x="128" y="182" fill="#FFFFFF" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="64" font-weight="700" text-anchor="middle">ASM</text>
+  <rect x="68" y="200" width="120" height="8" rx="4" fill="#0091BD"/>
+</svg>
