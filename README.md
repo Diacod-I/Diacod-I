@@ -65,7 +65,7 @@
     <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" title="PostgreSQL" alt="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="40" title="Supabase" alt="Supabase"/> <img src="assets/skills/fabric.svg" height="40" title="Microsoft Fabric" alt="Microsoft Fabric"/> <img src="assets/skills/powerbi.svg" height="40" title="Power BI" alt="Power BI"/> <img src="assets/skills/airflow.svg" height="40" title="Apache Airflow" alt="Apache Airflow"/> <img src="assets/skills/dbeaver.svg" height="40" title="DBeaver" alt="DBeaver"/> <img src="assets/skills/spark.svg" height="40" title="Spark" alt="Spark"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/ML-22c55e?style=for-the-badge" height="28" alt="ML"/></td>
+    <td><img src="https://img.shields.io/badge/AI&#x2f;ML-22c55e?style=for-the-badge" height="28" alt="ML"/></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch" alt="PyTorch"/> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow" alt="TensorFlow"/> <img src="assets/skills/mlx.svg" height="40" title="MLX" alt="MLX"/> <img src="assets/skills/huggingface.svg" height="40" title="Hugging Face" alt="Hugging Face"/> <img src="assets/skills/langchain.svg" height="40" title="LangChain" alt="LangChain"/> <img src="assets/skills/mcp.svg" height="40" title="Model Context Protocol" alt="Model Context Protocol"/> <img src="assets/skills/wandb.svg" height="40" title="Weights & Biases" alt="Weights & Biases"/></td>
   </tr>
   <tr>
