@@ -26,12 +26,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Diacod-I&show_icons=true&card_width=495&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf&icon_color=8eb573" height="165" alt="GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Diacod-I&show_icons=true&card_width=495&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf&icon_color=8eb573" height="180" alt="GitHub stats"/>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=Diacod-I&hide_border=true&border_radius=10&background=282c34&stroke=3e4451&ring=e4bf7a&fire=e4bf7a&currStreakNum=abb2bf&currStreakLabel=e4bf7a&sideNums=abb2bf&sideLabels=e4bf7a&dates=7f848e" height="165" alt="GitHub streak"/>
+      <img src="https://streak-stats.demolab.com?user=Diacod-I&hide_border=true&border_radius=10&background=282c34&stroke=3e4451&ring=e4bf7a&fire=e4bf7a&currStreakNum=abb2bf&currStreakLabel=e4bf7a&sideNums=abb2bf&sideLabels=e4bf7a&dates=7f848e" height="180" alt="GitHub streak"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diacod-I&langs_count=6&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,html,css&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf" height="345" alt="Top languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diacod-I&langs_count=6&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,html,css&hide_border=true&border_radius=10&bg_color=282c34&title_color=e4bf7a&text_color=abb2bf" height="365" alt="Top languages"/>
     </td>
   </tr>
 </table>
