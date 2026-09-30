@@ -17,8 +17,8 @@
 
 </i>
 
-<h2 align="left">GitHub Stats [ :O ] <img align="right" src="https://komarev.com/ghpvc/?username=Diacod-I&style=flat-square&color=e4bf7a&label=profile+views" alt="Profile views"/></h2>
-
+<h2 align="left">GitHub Stats [ :O ] </h2>
+<img align="right" src="https://komarev.com/ghpvc/?username=Diacod-I&style=flat-square&color=e4bf7a&label=profile+views" alt="Profile views"/><br>
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
 </p>
