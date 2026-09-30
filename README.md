@@ -90,11 +90,6 @@
   </tr>
 </table>
 
-
-<h2 align="left">Contact me [ :X ]</h2>
-
-Preferably reach via email ( advithkrishnan@gmail.com ), or use any of the social channels provided below my profile picture.
-
 <h2 align="left">GitHub Stats [ :O ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
 
 <p align="center">
