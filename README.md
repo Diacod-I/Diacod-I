@@ -13,11 +13,11 @@
  - <b>Systems Engineer</b> @ Infosys; Previously @ Linux Foundation, ETH Zurich, NASA; Total of 2+ years of experience.<br>
  - <b>Contributor</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  - I code, design, cook, ideate, & research.
- - <b>Interested to work on</b>: agents, ML compilers + inference, backend systems, web3.
+ - <b>Interested to work on</b>: agents, computational neuroscience, ML compilers, ML inference, backend systems, payments, web3.
 
 </i>
 
-<h2 align="left">GitHub Stats [ :O ] <img align="right" src="https://komarev.com/ghpvc/?username=Diacod-I&style=flat-square&color=e4bf7a&label=profile+views" alt="Profile views"/></h2>
+<h2 align="left">GitHub Stats [ :O ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=0" alt="Profile views"/></h2>
 
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
@@ -68,8 +68,8 @@
 
 <table>
   <tr>
-    <th align="left"><h3>&nbsp;&nbsp;Layer</h3><img src="assets/spacer.png" width="1" height="1" alt=""/></th>
-    <th align="left"><h3>&nbsp;&nbsp;Stack</h3><img src="assets/spacer.png" width="2000" height="1" alt=""/></th>
+    <th align="left"><h3>Layer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3><img src="assets/spacer.png" width="1" height="1" alt=""/></th>
+    <th align="left"><h3>Stack</h3><img src="assets/spacer.png" width="2000" height="1" alt=""/></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Cloud_%26_Infra-06b6d4?style=for-the-badge" height="28" alt="Cloud & Infra"/></td>
