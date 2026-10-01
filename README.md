@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://advithkrishnan.com" target="_blank" title="Click to visit my portfolio!">
-    <img width="1001" height="251" alt="Screenshot 2026-08-30 at 10 58 40 PM" src="https://github.com/user-attachments/assets/64431ea3-515c-4572-8040-05bac9216405" />
+    <img width="1001" height="251" alt="Screenshot 2026-08-30 at 10 58 40 PM" src="https://github.com/user-attachments/assets/64431ea3-515c-4572-8040-05bac9216405" />
   </a>
 </p>
 <a href="https://advithkrishnan.com" target="_blank" title="Click to visit! [:3]">
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/AI&#x2f;ML-22c55e?style=for-the-badge" height="28" alt="ML"/></td>
-    <td><img src="assets/skills/huggingface.svg" height="40" title="Hugging Face" alt="Hugging Face"/> <img src="assets/skills/langchain.svg" height="40" title="LangChain" alt="LangChain"/> <img src="assets/skills/metal.svg" height="40" title="Metal" alt="Metal"/> <img src="assets/skills/mlx.svg" height="40" title="MLX" alt="MLX"/> <img src="assets/skills/mcp.svg" height="40" title="Model Context Protocol" alt="Model Context Protocol"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch" alt="PyTorch"/> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow" alt="TensorFlow"/> <img src="assets/skills/wandb.svg" height="40" title="Weights & Biases" alt="Weights & Biases"/></td>
+    <td><img src="assets/skills/huggingface.svg" height="40" title="Hugging Face" alt="Hugging Face"/> <img src="assets/skills/jax.svg" height="40" title="JAX" alt="JAX"/> <img src="assets/skills/keras.svg" height="40" title="Keras" alt="Keras"/> <img src="assets/skills/langchain.svg" height="40" title="LangChain" alt="LangChain"/> <img src="assets/skills/metal.svg" height="40" title="Metal" alt="Metal"/> <img src="assets/skills/mlx.svg" height="40" title="MLX" alt="MLX"/> <img src="assets/skills/mcp.svg" height="40" title="Model Context Protocol" alt="Model Context Protocol"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch" alt="PyTorch"/> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow" alt="TensorFlow"/> <img src="assets/skills/wandb.svg" height="40" title="Weights & Biases" alt="Weights & Biases"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Applications-a78bfa?style=for-the-badge" height="28" alt="Applications"/></td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Compilers-f97316?style=for-the-badge" height="28" alt="Compilers"/></td>
-    <td><img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/></td>
+    <td><img src="assets/skills/llvm.svg" height="40" title="LLVM" alt="LLVM"/> <img src="assets/skills/mlir.svg" height="40" title="MLIR" alt="MLIR"/> <img src="assets/skills/openxla.svg" height="40" title="OpenXLA" alt="OpenXLA"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Data_%26_BI-eab308?style=for-the-badge" height="28" alt="Data & BI"/></td>
@@ -78,6 +78,7 @@
     <td><img src="https://img.shields.io/badge/Languages-3b82f6?style=for-the-badge" height="28" alt="Languages"/></td>
     <td><img src="assets/skills/armasm.svg" height="40" title="ARM Assembly" alt="ARM Assembly"/> <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" title="Bash" alt="Bash"/> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="40" title="C" alt="C"/> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40" title="C++" alt="C++"/> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" title="JavaScript" alt="JavaScript"/> <img src="assets/skills/objectivec.svg" height="40" title="Objective-C" alt="Objective-C"/> <img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" title="Python" alt="Python"/> <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="40" title="Rust" alt="Rust"/> <img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="40" title="Solidity" alt="Solidity"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" title="TypeScript" alt="TypeScript"/></td>
   </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Systems_%26_Hardware-9ca3af?style=for-the-badge" height="28" alt="Systems & Hardware"/></td>
     <td><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" title="Arch Linux" alt="Arch Linux"/> <img src="assets/skills/arm.svg" height="40" title="ARM" alt="ARM"/> <img src="assets/skills/fedora.svg" height="40" title="Fedora" alt="Fedora"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" title="Linux" alt="Linux"/> <img src="https://skillicons.dev/icons?i=apple&theme=dark" height="40" title="macOS" alt="macOS"/> <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" height="40" title="Raspberry Pi" alt="Raspberry Pi"/></td>
   </tr>
