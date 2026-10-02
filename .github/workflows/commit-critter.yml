@@ -16,3 +16,4 @@ jobs:
       - uses: Diacod-I/commit-critter@v1
         with:
           species: crab
+          theme: dark
