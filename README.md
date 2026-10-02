@@ -39,6 +39,14 @@
 </i>
 </div>
 
+<h2 align="left">My Pet Crab [ :3 ]</h2>
+
+<!-- COMMIT-CRITTER:START -->
+<img src=".critter/critter.svg" width="576" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 5 today, real-work streak 1d (best 1d), age 1d.">
+
+<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter). No work, no food.</sub>
+<!-- COMMIT-CRITTER:END -->
+
 <h2 align="left">My Skillset [ :U ]</h2>
 
 <!-- 
@@ -91,14 +99,6 @@
     <td><img src="assets/skills/chainlink.svg" height="40" title="Chainlink" alt="Chainlink"/> <img src="assets/skills/circle.svg" height="40" title="Circle" alt="Circle"/> <img src="assets/skills/foundry.svg" height="40" title="Foundry" alt="Foundry"/> <img src="assets/skills/privy.svg" height="40" title="Privy" alt="Privy"/> <img src="assets/skills/x402.svg" height="40" title="x402" alt="x402"/></td>
   </tr>
 </table>
-
-<h2 align="left">My Pet Crab [ :3 ]</h2>
-
-<!-- COMMIT-CRITTER:START -->
-<img src=".critter/critter.svg" width="576" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 5 today, real-work streak 1d (best 1d), age 1d.">
-
-<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter). No work, no food.</sub>
-<!-- COMMIT-CRITTER:END -->
 
 <h2 align="left">GitHub Stats [ :O ] </h2>
 
