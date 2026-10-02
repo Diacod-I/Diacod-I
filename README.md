@@ -95,11 +95,9 @@
 <h2 align="left">My Pet Crab [ :3 ]</h2>
 
 <!-- COMMIT-CRITTER:START -->
-<img src=".critter/critter.svg" width="320" alt="Clawdia the crab, feeling ecstatic">
+<img src=".critter/critter.svg" width="576" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 5 today, real-work streak 1d (best 1d), age 1d.">
 
-**Clawdia** the crab · **ecstatic** · fullness `██████████` · ate 5 today · real-work streak 1d (best 1d) · age 1d · [diary](.critter/diary.md) · [trophies](.critter/trophies.md)
-
-<sub>Fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter). No work, no food.</sub>
+<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter). No work, no food.</sub>
 <!-- COMMIT-CRITTER:END -->
 
 <h2 align="left">GitHub Stats [ :O ] </h2>
