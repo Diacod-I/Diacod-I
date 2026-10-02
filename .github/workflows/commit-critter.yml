@@ -1,0 +1,18 @@
+name: Commit Critter
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # 12:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: Diacod-I/commit-critter@v1
+        with:
+          species: crab

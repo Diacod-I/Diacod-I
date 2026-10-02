@@ -92,6 +92,11 @@
   </tr>
 </table>
 
+<h2 align="left">My Pet Crab [ :3 ]</h2>
+
+<!-- COMMIT-CRITTER:START -->
+<!-- COMMIT-CRITTER:END -->
+
 <h2 align="left">GitHub Stats [ :O ] </h2>
 
 <p align="center">
