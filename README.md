@@ -15,6 +15,16 @@
  - Interested to work on agents, ML compilers + inference, backend systems, web3.
  - <b>Contact</b>: advithkrishnan@gmail.com
 
+<div align="center">
+
+<!-- COMMIT-CRITTER:START -->
+<img src=".critter/critter.svg" width="100%" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 34 today, real-work streak 2d (best 2d), age 2d.">
+
+<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter), a project I spearheaded. No work, no food.</sub>
+<!-- COMMIT-CRITTER:END -->
+
+</div>
+
 </i>
 
 <h2 align="left">I'm featured here! [ :P ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
@@ -93,16 +103,6 @@
 </table>
 
 <h2 align="left">On GitHub Lately [ :O ]</h2>
-
-<div align="center">
-
-<!-- COMMIT-CRITTER:START -->
-<img src=".critter/critter.svg" width="100%" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 34 today, real-work streak 2d (best 2d), age 2d.">
-
-<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter), a project I spearheaded. No work, no food.</sub>
-<!-- COMMIT-CRITTER:END -->
-
-</div>
 
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
