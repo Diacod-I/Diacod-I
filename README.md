@@ -94,10 +94,6 @@
 
 <h2 align="left">On GitHub Lately [ :O ]</h2>
 
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
-</p>
-
 <div align="center">
 
 <!-- COMMIT-CRITTER:START -->
@@ -107,6 +103,10 @@
 <!-- COMMIT-CRITTER:END -->
 
 </div>
+
+<p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
+</p>
 
 <!-- <table align="center">
   <tr>
