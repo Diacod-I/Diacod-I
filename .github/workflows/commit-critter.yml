@@ -17,4 +17,5 @@ jobs:
         with:
           species: crab
           theme: dark
-          size: full
+          size: small
+          float: right

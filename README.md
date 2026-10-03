@@ -9,23 +9,20 @@
 <h2 align="left">Hi, I'm Advith Krishnan [ :D ]</h2>
 
 <i>
-  
+
+<!-- COMMIT-CRITTER:START -->
+<a href=".critter/diary.md"><img align="right" src=".critter/critter.svg" width="264" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 34 today, real-work streak 2d (best 2d), age 2d." title="Clawdia&#x27;s diary · fed daily with my real GitHub activity by Commit Critter"></a>
+<!-- COMMIT-CRITTER:END -->
+
  - <b>Systems Engineer</b> @ Infosys; Previously @ Linux Foundation, ETH Zurich, NASA.<br>
  - <b>Contributor</b> @ <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3ADiacod-I">Rust</a>, <a href="https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3ADiacod-I">PyTorch</a>, <a href="https://openmainframeproject.org/blog/summer-mentorship-2025-advith-krishnan/">Open Mainframe Project</a>.<br>
  - Interested to work on agents, ML compilers + inference, backend systems, web3.
  - <b>Contact</b>: advithkrishnan@gmail.com
-
-<div align="center">
-
-<!-- COMMIT-CRITTER:START -->
-<img src=".critter/critter.svg" width="100%" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 34 today, real-work streak 2d (best 2d), age 2d.">
-
-<sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter), a project I spearheaded. No work, no food.</sub>
-<!-- COMMIT-CRITTER:END -->
-
-</div>
+ - <b>Pet crab</b>: Clawdia, fed daily by my real GitHub activity via <a href="https://github.com/Diacod-I/Commit-Critter">Commit Critter</a>, a project I spearheaded.
 
 </i>
+
+<br clear="right"/>
 
 <h2 align="left">I'm featured here! [ :P ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
 
