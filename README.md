@@ -97,7 +97,7 @@
 <div align="center">
 
 <!-- COMMIT-CRITTER:START -->
-<img src=".critter/critter.svg" width="576" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 5 today, real-work streak 1d (best 1d), age 1d.">
+<img src=".critter/critter.svg" width="100%" alt="Clawdia the crab, feeling ecstatic. Fullness 10/10, ate 34 today, real-work streak 2d (best 2d), age 2d.">
 
 <sub>[diary](.critter/diary.md) · [trophies](.critter/trophies.md) · fed daily with my real GitHub activity by [Commit Critter](https://github.com/Diacod-I/commit-critter). No work, no food.</sub>
 <!-- COMMIT-CRITTER:END -->
