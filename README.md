@@ -22,8 +22,6 @@
 
 </i>
 
-<br clear="right"/>
-
 <h2 align="left">I'm featured here! [ :P ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
 
 - 🎥 Sovereign-MCP @ ETHOnline 2026 (solo participation) [[Link](https://ethglobal.com/showcase/sovereign-mcp-qm8m1)].
