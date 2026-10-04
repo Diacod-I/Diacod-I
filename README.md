@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Inference-14b8a6?style=for-the-badge" height="28" alt="Inference"/></td>
-    <td><img src="assets/skills/llamacpp.svg" height="40" title="llama.cpp" alt="llama.cpp"/> <img src="assets/skills/onnx.svg" height="40" title="ONNX" alt="ONNX"/> <img src="assets/skills/vllm.svg" height="40" title="vLLM" alt="vLLM"/></td>
+    <td><img src="assets/skills/llamacpp.svg" height="40" title="llama.cpp" alt="llama.cpp"/> <img src="assets/skills/lmstudio.svg" height="40" title="LM Studio" alt="LM Studio"/> <img src="assets/skills/ollama.svg" height="40" title="Ollama" alt="Ollama"/> <img src="assets/skills/onnx.svg" height="40" title="ONNX" alt="ONNX"/> <img src="assets/skills/vllm.svg" height="40" title="vLLM" alt="vLLM"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Kernels_%26_Accelerators-ef4444?style=for-the-badge" height="28" alt="Kernels & Accelerators"/></td>
@@ -102,8 +102,8 @@
 </table>
 
 
-<img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/>
-<h2 align="left">On GitHub Lately [ :O ]</h2>
+
+<h2 align="left">On GitHub Lately [ :O ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
 
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Diacod-I&row=1&column=7&theme=onedark&no-frame=true" width="100%" alt="GitHub trophies"/>
