@@ -1,14 +1,15 @@
 {
   "born": "2026-10-02",
-  "age": 2,
+  "age": 3,
   "hunger": 0,
-  "food_today": 34,
-  "total_food": 39,
-  "real_streak": 2,
-  "best_streak": 2,
-  "last_fed": "2026-10-03",
+  "food_today": 1,
+  "total_food": 40,
+  "real_streak": 3,
+  "best_streak": 3,
+  "last_fed": "2026-10-04",
   "history": [
     5,
-    34
+    34,
+    1
   ]
 }
