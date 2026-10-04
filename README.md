@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Applications-a78bfa?style=for-the-badge" height="28" alt="Applications"/></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" title="FastAPI" alt="FastAPI"/> <img src="assets/skills/n8n.svg" height="40" title="n8n" alt="n8n"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" title="Next.js" alt="Next.js"/> <img src="assets/skills/posthog.svg" height="40" title="PostHog" alt="PostHog"/> <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" title="React" alt="React"/> <img src="assets/skills/stripe.svg" height="40" title="Stripe" alt="Stripe"/> <img src="assets/skills/zustand.svg" height="40" title="Zustand" alt="Zustand"/></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" title="FastAPI" alt="FastAPI"/> <img src="assets/skills/n8n.svg" height="40" title="n8n" alt="n8n"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" title="Next.js" alt="Next.js"/> <img src="assets/skills/posthog.svg" height="40" title="PostHog" alt="PostHog"/> <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" title="React" alt="React"/> <img src="assets/skills/stripe.svg" height="40" title="Stripe" alt="Stripe"/> <img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" height=40 title="Tailwind CSS" alt="Tailwind CSS"/> <img src="assets/skills/zustand.svg" height="40" title="Zustand" alt="Zustand"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Cloud_%26_Infra-06b6d4?style=for-the-badge" height="28" alt="Cloud & Infra"/></td>
