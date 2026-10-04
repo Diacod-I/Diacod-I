@@ -56,7 +56,11 @@
     <th align="left"><h3>Stack</h3><img src="assets/spacer.png" width="2000" height="1" alt=""/></th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/AI&#x2f;ML-22c55e?style=for-the-badge" height="28" alt="AI/ML"/></td>
+    <td><img src="https://img.shields.io/badge/AI&#x2f;ML_Inference-14b8a6?style=for-the-badge" height="28" alt="Inference"/></td>
+    <td><img src="assets/skills/llamacpp.svg" height="40" title="llama.cpp" alt="llama.cpp"/> <img src="assets/skills/lmstudio.svg" height="40" title="LM Studio" alt="LM Studio"/> <img src="assets/skills/ollama.svg" height="40" title="Ollama" alt="Ollama"/> <img src="assets/skills/onnx.svg" height="40" title="ONNX" alt="ONNX"/> <img src="assets/skills/vllm.svg" height="40" title="vLLM" alt="vLLM"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AI&#x2f;ML_Models-22c55e?style=for-the-badge" height="28" alt="AI/ML"/></td>
     <td><img src="assets/skills/huggingface.svg" height="40" title="Hugging Face" alt="Hugging Face"/> <img src="assets/skills/jax.svg" height="40" title="JAX" alt="JAX"/> <img src="assets/skills/keras.svg" height="40" title="Keras" alt="Keras"/> <img src="assets/skills/langchain.svg" height="40" title="LangChain" alt="LangChain"/> <img src="assets/skills/mcp.svg" height="40" title="Model Context Protocol" alt="Model Context Protocol"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch" alt="PyTorch"/> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow" alt="TensorFlow"/> <img src="assets/skills/wandb.svg" height="40" title="Weights & Biases" alt="Weights & Biases"/></td>
   </tr>
   <tr>
@@ -74,10 +78,6 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Data_%26_BI-eab308?style=for-the-badge" height="28" alt="Data & BI"/></td>
     <td><img src="assets/skills/airflow.svg" height="40" title="Apache Airflow" alt="Apache Airflow"/> <img src="assets/skills/dbeaver.svg" height="40" title="DBeaver" alt="DBeaver"/> <img src="assets/skills/fabric.svg" height="40" title="Microsoft Fabric" alt="Microsoft Fabric"/> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" title="MySQL" alt="MySQL"/> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" title="PostgreSQL" alt="PostgreSQL"/> <img src="assets/skills/powerbi.svg" height="40" title="Power BI" alt="Power BI"/> <img src="assets/skills/spark.svg" height="40" title="Spark" alt="Spark"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="40" title="Supabase" alt="Supabase"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Inference-14b8a6?style=for-the-badge" height="28" alt="Inference"/></td>
-    <td><img src="assets/skills/llamacpp.svg" height="40" title="llama.cpp" alt="llama.cpp"/> <img src="assets/skills/lmstudio.svg" height="40" title="LM Studio" alt="LM Studio"/> <img src="assets/skills/ollama.svg" height="40" title="Ollama" alt="Ollama"/> <img src="assets/skills/onnx.svg" height="40" title="ONNX" alt="ONNX"/> <img src="assets/skills/vllm.svg" height="40" title="vLLM" alt="vLLM"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Kernels_%26_Accelerators-ef4444?style=for-the-badge" height="28" alt="Kernels & Accelerators"/></td>
