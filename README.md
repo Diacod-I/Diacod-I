@@ -22,7 +22,7 @@
 
 </i>
 
-<h2 align="left">I'm featured here! [ :P ] <img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/></h2>
+<h2 align="left">I'm featured here! [ :P ] </h2>
 
 - 🎥 Sovereign-MCP @ ETHOnline 2026 (solo participation) [[Link](https://ethglobal.com/showcase/sovereign-mcp-qm8m1)].
 - 🎥 Summer Mentorship 2025: RAG to Riches - Using Your Legacy Data, Advith Krishnan [[Link](https://www.youtube.com/watch?v=W_UpWcV9_DU)].
@@ -97,6 +97,8 @@
   </tr>
 </table>
 
+
+<img align="right" src="https://hits.sh/github.com/Diacod-I.svg?style=flat-square&label=profile%20views&color=e4bf7a&labelColor=282c34&extraCount=3560" alt="Profile views"/>
 <h2 align="left">On GitHub Lately [ :O ]</h2>
 
 <p align="center">
