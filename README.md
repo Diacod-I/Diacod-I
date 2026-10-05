@@ -11,7 +11,7 @@
 <i>
 
 <!-- COMMIT-CRITTER:START -->
-<a href=".critter/diary.md"><img align="right" src=".critter/critter.svg" width="132" alt="Clawdia the crab, feeling happy. Fullness 10/10, ate 1 today, real-work streak 3d (best 3d), age 3d." title="Clawdia&#x27;s diary · fed daily with my real GitHub activity by Commit Critter"></a>
+<a href=".critter/diary.md"><img align="right" src=".critter/critter.svg" width="140" alt="Clawdia the crab, feeling happy. Fullness 8/10, ate 0 today, real-work streak 0d (best 3d), age 4d." title="Clawdia&#x27;s diary · fed daily with my real GitHub activity by Commit Critter"></a>
 <!-- COMMIT-CRITTER:END -->
 
  - <b>Systems Engineer</b> @ Infosys; Previously @ Linux Foundation, ETH Zurich, NASA.<br>
