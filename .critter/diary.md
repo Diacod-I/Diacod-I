@@ -7,3 +7,4 @@
 - 2026-10-06 · day 5 · meh · Slim pickings on the beach.
 - 2026-10-07 · day 6 · hungry · The tide pool is empty.
 - 2026-10-08 · day 7 · starving · Moving into a smaller shell to save energy.
+- 2026-10-09 · day 8 · hungry · The tide pool is empty.
