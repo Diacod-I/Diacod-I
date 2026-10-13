@@ -11,3 +11,4 @@
 - 2026-10-10 · day 9 · starving · Moving into a smaller shell to save energy.
 - 2026-10-11 · day 10 · starving · Moving into a smaller shell to save energy.
 - 2026-10-12 · day 11 · starving · Moving into a smaller shell to save energy.
+- 2026-10-13 · day 12 · starving · Moving into a smaller shell to save energy.
