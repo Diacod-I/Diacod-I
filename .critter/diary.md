@@ -15,3 +15,4 @@
 - 2026-10-14 · day 13 · hungry · I am pinching the air in protest.
 - 2026-10-15 · day 14 · hungry · I am pinching the air in protest.
 - 2026-10-16 · day 15 · starving · Moving into a smaller shell to save energy.
+- 2026-10-17 · day 16 · starving · Moving into a smaller shell to save energy.
