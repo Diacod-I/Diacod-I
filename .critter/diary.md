@@ -18,3 +18,4 @@
 - 2026-10-17 · day 16 · starving · Moving into a smaller shell to save energy.
 - 2026-10-18 · day 17 · starving · Under the rock. Do not disturb.
 - 2026-10-19 · day 18 · starving · Under the rock. Do not disturb.
+- 2026-10-20 · day 19 · starving · Moving into a smaller shell to save energy.
