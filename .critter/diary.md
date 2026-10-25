@@ -23,3 +23,4 @@
 - 2026-10-22 · day 21 · starving · Moving into a smaller shell to save energy.
 - 2026-10-23 · day 22 · starving · Under the rock. Do not disturb.
 - 2026-10-24 · day 23 · starving · Moving into a smaller shell to save energy.
+- 2026-10-25 · day 24 · starving · Under the rock. Do not disturb.
