@@ -37,3 +37,4 @@
 - 2026-11-08 · day 35 · starving · Under the rock. Do not disturb.
 - 2026-11-09 · day 36 · starving · Moving into a smaller shell to save energy.
 - 2026-11-10 · day 37 · starving · Moving into a smaller shell to save energy.
+- 2026-11-11 · day 38 · starving · Moving into a smaller shell to save energy.
