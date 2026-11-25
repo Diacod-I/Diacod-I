@@ -46,3 +46,4 @@
 - 2026-11-22 · day 44 · starving · Under the rock. Do not disturb.
 - 2026-11-23 · day 45 · starving · Under the rock. Do not disturb.
 - 2026-11-24 · day 46 · starving · Moving into a smaller shell to save energy.
+- 2026-11-25 · day 47 · starving · Under the rock. Do not disturb.
